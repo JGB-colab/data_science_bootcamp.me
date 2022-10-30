@@ -7,7 +7,7 @@ Olá, sou João Gabriel(aspirante a cientista de dados) e algum tempo tenho estu
 ## Minha metodologia
 Para conseguir adquirir novas ferramentas terei pular algumas,pois de fato o bootcamp é de tempo limitado, e como tenho conhecimento de partes específicas dadas no treinamento e como minha rotina semanamente não me permite dedica horas suficientes para conseguir terminar o bootcamp incluindo item a item, por isso, do final da segunda parte em diante do treinamento que inclui:
  - ETL;
- - Bancos de dados;
+ - Poo; 
  - AWS;
  - Machine Learning;
  Sendo assim, terei de cobrir o curso dessa forma, para conseguir terminá-lo e ter tempo para aproveitar ao máximo o conhecimento oferecido.
